@@ -33,9 +33,6 @@ library(cluster)
 library(broom)
 library(iNEXT)
 
-setwd("~/AWI_MPI/collaborations/meineMiao/LandformLife/Rev2/Rstats")
-setwd("Y:/AWI_MPI/collaborations/meineMiao/LandformLife/Rev2/Rstats")
-
 ####################################################
 
 ## LOAD IMAGE AREAS
